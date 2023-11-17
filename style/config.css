@@ -1,0 +1,10 @@
+:root {
+  --font-family-1: 'Montserrat', sans-serif;
+  --font-family-2: 'Open Sans', sans-serif;
+  --font-family-3: 'Raleway', sans-serif;
+  --main-color-blue: rgb(177, 192, 221);
+  --main-color-black: rgb(1, 2, 4);
+  --main-color-yellow: rgb(255, 255, 205);
+  --main-color-grey: rgb(217, 217, 217);
+  --button-padding: 18px 50px;
+}
